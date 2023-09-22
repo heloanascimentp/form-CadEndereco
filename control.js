@@ -1,0 +1,1 @@
+'USE strict'; //modo restrito
