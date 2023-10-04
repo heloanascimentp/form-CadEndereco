@@ -9,7 +9,7 @@
 [fontes consultadas](#fontes-consultadas)  
 [autores](#autores) 
 
-![image info](img/gifcadastro.gif)
+![image info](img/cadastroGIF.gif)
 
 
 ## Descrição
