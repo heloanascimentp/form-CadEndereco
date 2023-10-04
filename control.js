@@ -33,7 +33,12 @@ const pesquisarCep = async() => {
 
         if(address.hasOwnProperty('erro')){
             alert('cep não encontrato')
-
+        }else{
+            preencherFormulario(address);
         }
+    }else{
+        alert('CEP incorreto');
     }
-}
+        }
+        //adiciona evento DUM ao input do CEP para executar função pesquisarCep
+        document.getElementById('cep').addEventListener('focusout', pesquisarCep)
