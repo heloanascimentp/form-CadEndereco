@@ -38,6 +38,12 @@ Esse codigo tem a função de adicionar um evento de cadastro ao adicionar o CEP
 ![image info](img/cepcurto.gif)
 
 
+`AWAIT` - faz a execução de uma função async pausar, para esperar pelo retorno da Promise , e resume a execução da função async quando o valor da Promise é resolvido 
+
+`async` - significa que o valor de retorno da função será, "por baixo dos panos", uma Promise. 
+
+`hasOwnProperty` - para determinar se um objeto possui a propriedade especificada como propriedade direta do objeto
+
 ## Tecnologias utilizadas
 USAMOS  
 HTML  
