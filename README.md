@@ -23,6 +23,25 @@ Esse codigo é uma aplicação para hum formulário em HTML para cadastro de end
 ## Funcionalidade 
 Esse codigo tem a função de adicionar um evento de cadastro ao adicionar o CEP, ou seja, quando o usuário Tiro o foco desse campo (ao clique para), a função pesquisarCep é realizado para verificar se o CEP é válido e preencher sistema operacional com informações Correspondentes ao CEP digitado. Essa é uma forma de automatizar a busca pelo endereço, facilitando o preenchimento desse formulário.
 
+`FUNCIONALIDADE 1` - Quando o usuário colocar o CEP correto, os campos endereço, bairro, cidade e estado será preenchido adequadamente com as informações.
+
+![image info](img/cepcorreto.gif)
+
+`FUNCIONALIDADE 2` - Quando o usuário digitar um CEP incorreto, aparecerá uma imagem na tela.
+
+![image info](img/cepincorreto.gif)
+
+
+`FUNCIONALIDADE 3` - Quando não colocar nenhuma informação no CEP, aparecerá uma imagem.
+
+![image info](img/nadanocep.gif)
+
+
+`FUNCIONALIDADE 4` - Quando o usuario coloca uma informação muito curta e que não está de acordo com CEP.
+
+![image info](img/cepcurto.gif)
+
+
 ## Tecnologias utilizadas
 USAMOS  
 HTML  
